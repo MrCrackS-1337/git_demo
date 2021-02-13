@@ -5,6 +5,5 @@
  New lines for lessons 
  	smthng words
 		azazlol1337
-New line1 
-new line 2 
------------------------------
+		
+some new content (new2)
